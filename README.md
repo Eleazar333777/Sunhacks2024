@@ -2,6 +2,9 @@
 Sunhacks submission
 I made an interactive website that countsdown to Pi Day!!!
 When the user taps the screen emojis appear and gradually disappear.
+Sources:
+https://s7d1.scene7.com/is/image/CENODS/09710-newscripts-picxd?$responsive$&wid=700&qlt=90,0&resMode=sharp2
+and Chatgpt.
 
 This is the code (prone to change).
 
